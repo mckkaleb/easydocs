@@ -11,3 +11,7 @@ easydocs is a simple web app that allows you to create, edit, delete, and share 
 1. Clone the repository
 2. Run `npm install` to install all dependecies
 3. Run `npm run dev` to start the development server - this may take several seconds
+
+## Demo account credentials
+username: demo@email.com
+password: demopassword
